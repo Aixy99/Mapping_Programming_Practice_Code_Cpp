@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\MyFIles\AboutCode\Cpp\测绘程序设计\Ch22 数字水准仪原始记录转标准表格\include\openXLSX\XLCellValue.hpp(87,53): warning C4244: “return”: 从“int64_t”转换到“double”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\MyFIles\AboutCode\Cpp\测绘程序设计\Ch22 数字水准仪原始记录转标准表格\include\openXLSX\XLSharedStrings.hpp(136,65): warning C4267: “return”: 从“size_t”转换到“int32_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\MyFIles\AboutCode\Cpp\测绘程序设计\Ch22 数字水准仪原始记录转标准表格\Ch22 数字水准仪原始记录转标准表格\main.cpp(15,45): warning C4267: “参数”: 从“size_t”转换到“uint16_t”，可能丢失数据
+  Ch22 数字水准仪原始记录转标准表格.vcxproj -> C:\MyFIles\AboutCode\Cpp\测绘程序设计\Ch22 数字水准仪原始记录转标准表格\x64\Debug\Ch22 数字水准仪原始记录转标准表格.exe
