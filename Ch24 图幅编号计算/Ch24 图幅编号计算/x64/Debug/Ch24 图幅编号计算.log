@@ -1,0 +1,11 @@
+﻿  picture_num.cpp
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(99,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(100,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(101,45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(705,53): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(716,53): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(728,53): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(740,52): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(753,52): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\Ch24 图幅编号计算\picture_num.cpp(767,52): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Ch24 图幅编号计算.vcxproj -> C:\MyFIles\AboutCode\Cpp\project\测绘程序设计\Ch24 图幅编号计算\x64\Debug\Ch24 图幅编号计算.exe
